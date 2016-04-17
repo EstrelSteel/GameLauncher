@@ -11,7 +11,7 @@ import javax.swing.JProgressBar;
 import javax.swing.JTextPane;
 
 public class GameLauncher {
-	public static final String title = "Minotaur";
+	public static final String title = "ShapeCrafter_estrelsteel";
 	public static JTextPane text;
 	public static JProgressBar bar;
 	private static String version = "v2.0a";
